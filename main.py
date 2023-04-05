@@ -13,7 +13,7 @@ def print_hi(name):
 #ok
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('PyCharm2ssss11sssss')
+    print_hi('PyCharm ')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 
