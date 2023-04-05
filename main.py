@@ -17,5 +17,9 @@ if __name__ == '__main__':
     print_hi('PyCharm  11111')
 #2222
 
+    print_hi('PyCharm  3333')
+#4444
+
+
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 
