@@ -12,7 +12,7 @@ def print_hi(name):
 if __name__ == '__main__':
 
 
-    print_hi('PyCharm222')
+    print_hi('PyCharm111')
 
 
 
