@@ -12,9 +12,9 @@ def print_hi(name):
 if __name__ == '__main__':
 
 
-    print_hi('PyCharm111')
+    print_hi('PyCharm555')
 
-    #22222a
+    #2222
 
 
 
