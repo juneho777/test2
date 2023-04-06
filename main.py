@@ -13,9 +13,9 @@ if __name__ == '__main__':
 
 
 
-    print_hi('PyCharmnew')
+    print_hi('PyCharm3')
 
-    #33333
+    #4
 
 
 
