@@ -11,9 +11,10 @@ def print_hi(name):
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
 
-    print_hi('PyCharm33')
+    print_hi('PyCharm33new')
 
-    #44
+    #44mew
+
 
 
 
