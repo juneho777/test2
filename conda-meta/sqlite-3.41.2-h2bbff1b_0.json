@@ -1,0 +1,38 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "h2bbff1b_0",
+  "build_number": 0,
+  "channel": "https://repo.continuum.io/pkgs/main/win-64",
+  "depends": [
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "files": [
+    "Library/bin/sqlite3.dll",
+    "Library/bin/sqlite3.exe",
+    "Library/include/sqlite3.h",
+    "Library/include/sqlite3ext.h",
+    "Library/lib/sqlite3.lib"
+  ],
+  "fn": "sqlite-3.41.2-h2bbff1b_0.tar.bz2",
+  "license": "blessing",
+  "license_family": "Other",
+  "link": {
+    "source": "C:\\Users\\fea_j\\Anaconda3\\pkgs\\sqlite-3.41.2-h2bbff1b_0",
+    "type": 1
+  },
+  "md5": "32f95c4ef7dfbf22fd35292ff8bd51a5",
+  "name": "sqlite",
+  "noarch": null,
+  "platform": "win32",
+  "preferred_env": null,
+  "priority": 0,
+  "schannel": "defaults",
+  "size": 1311308,
+  "subdir": "win-64",
+  "timestamp": 1681402905668,
+  "url": "https://repo.continuum.io/pkgs/main/win-64/sqlite-3.41.2-h2bbff1b_0.tar.bz2",
+  "version": "3.41.2",
+  "with_features_depends": {}
+}

@@ -1,0 +1,44 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "hd77b12b_0",
+  "build_number": 0,
+  "channel": "https://repo.continuum.io/pkgs/main/win-64",
+  "depends": [
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "files": [
+    "Library/bin/ffi-7.dll",
+    "Library/bin/ffi-8.dll",
+    "Library/bin/ffi.dll",
+    "Library/include/ffi.h",
+    "Library/include/ffitarget.h",
+    "Library/lib/ffi.lib",
+    "Library/lib/libffi.dll.lib",
+    "Library/lib/libffi.lib",
+    "Library/lib/pkgconfig/libffi.pc",
+    "Library/share/libffi/libffiTargets-release.cmake",
+    "Library/share/libffi/libffiTargets.cmake"
+  ],
+  "fn": "libffi-3.4.4-hd77b12b_0.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Users\\fea_j\\Anaconda3\\pkgs\\libffi-3.4.4-hd77b12b_0",
+    "type": 1
+  },
+  "md5": "5cdcd99f18d9dedb772d272088e72b4c",
+  "name": "libffi",
+  "noarch": null,
+  "platform": "win32",
+  "preferred_env": null,
+  "priority": 0,
+  "schannel": "defaults",
+  "size": 116942,
+  "subdir": "win-64",
+  "timestamp": 1683716620230,
+  "url": "https://repo.continuum.io/pkgs/main/win-64/libffi-3.4.4-hd77b12b_0.tar.bz2",
+  "version": "3.4.4",
+  "with_features_depends": {}
+}
