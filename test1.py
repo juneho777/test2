@@ -1,7 +1,7 @@
 import numpy
 
 
-a=432
+a=111
 
 print("a")
 print("b")
