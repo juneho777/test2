@@ -1,7 +1,7 @@
 import numpy
 
 
-a=4
+a=43
 
 print("a")
 print("b")
